@@ -1,4 +1,4 @@
-'''Create a file called day1.py and do these in order:
+'''Create a file called task1.py and do these in order:
 
 1.Print Hello, World!
 2.Print your full name, your city and your goal for learning Python, on 3 separate lines.
