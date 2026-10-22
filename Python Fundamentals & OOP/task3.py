@@ -12,11 +12,11 @@
 '''
 
 #1
-print(15 // 4) #3
-print(15 % 4) #3
-print(2 ** 5) #32
-print(10 + 2 * 5) #20
-print((10 + 2) * 5) #60
+print(15 // 4) #output-3
+print(15 % 4) #output-3
+print(2 ** 5) #output-32
+print(10 + 2 * 5) #output-20
+print((10 + 2) * 5) #output-60
 
 #2
 num1 = float(input("Enter first number: "))
