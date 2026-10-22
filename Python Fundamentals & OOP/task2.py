@@ -8,7 +8,8 @@
 7.Make two variables a = 10 and b = 20, and swap their values. Print them before and after.
 8.Predict the output before running: print(10 / 2), print(type(10 / 2)), print(int(9.99)), print("2" + "3").
 9.Ask for a temperature in Celsius and convert it to Fahrenheit using F = C * 9 / 5 + 32.
-10.Ask for a student’s marks in 3 subjects and print the total and the average.'''
+10.Ask for a student’s marks in 3 subjects and print the total and the average.
+'''
 
 #1
 name = "Niranjan R"
